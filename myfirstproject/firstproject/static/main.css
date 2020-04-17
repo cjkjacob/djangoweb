@@ -1,0 +1,33 @@
+body{
+  color: blue;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:visited{
+  color: green;
+}
+
+a:hover{
+  color: red;
+}
+
+img{
+  border: 3px dashed black;
+}
+
+.forms{
+  border: 2px solid red;
+  width: 200px;
+  padding: 10px;
+}
+
+.navbar li{
+  display: inline-block;
+  padding: 5px;
+  border: 2px solid green;
+  border-collapse: collapse;
+  list-style: none;
+}
